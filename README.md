@@ -1,3 +1,3 @@
-# InternshipCCI
+# InternshipCCI (Updataing)
 
-  This is the respoirtory of codes covering the second master internship of Qirong Mao
+  This is the repository of codes covering the second master internship of Qirong Mao 
