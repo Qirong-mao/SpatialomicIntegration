@@ -33,7 +33,7 @@ sc.pp.log1p(spatial_data)
 location_file=pd.read_csv('/tudelft.net/staff-bulk/ewi/insy/DBL/qirongmao/raw_data/spatial/V1_Human_Brain_Section_2/spatial/tissue_positions_list.csv',header=None)
 location=spatial_data.obs[['array_col','array_row']]
 locations_apriori=location.to_numpy()
-# Deriving intersection genes
+# Deriving intersection genes between scRNA-seq and spatial transcriptomics
 df_dge = spatial_data.to_df()
 dataset_dge = dataset1.to_df()
 marker_genes=df_dge.columns.values.tolist()
@@ -46,7 +46,7 @@ idx = np.arange(ngenes)
 alpha_linear = 1.0
 df_marker = df_dge # using expression from data as markers
 
-# using a specific gene, e.g. PKM
+# using marker genes
 marker_name = retB
 marker_idx = idx[:597]
 marker_names = [marker_name]
