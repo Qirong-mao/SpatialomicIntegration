@@ -28,3 +28,9 @@ https://support.10xgenomics.com/spatial-gene-expression/datasets/1.1.0/V1_Human_
 Code: https://github.com/rajewsky-lab/novosparc
 
 Article: Nitzan, M., Karaiskos, N., Friedman, N. et al. Gene expression cartography. Nature 576, 132–137 (2019). https://doi.org/10.1038/s41586-019-1773-3
+
+### Cell2location
+
+Code: https://cell2location.readthedocs.io/en/latest/
+
+Article: https://www.biorxiv.org/content/10.1101/2020.11.15.378125v1
