@@ -5,7 +5,9 @@ This is the repository of codes covering the second master internship of Qirong 
 
 ## Data source
 
-scRNA-seq data: https://portal.brain-map.org/atlases-and-data/rnaseq 
+### scRNA-seq data: 
+
+https://portal.brain-map.org/atlases-and-data/rnaseq 
 
 Allen Brain Map "MULTIPLE CORTICAL AREAS - SMART-SEQ (2019)" 
 
