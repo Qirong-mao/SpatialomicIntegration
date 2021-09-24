@@ -34,3 +34,10 @@ Article: Nitzan, M., Karaiskos, N., Friedman, N. et al. Gene expression cartogra
 Code: https://cell2location.readthedocs.io/en/latest/
 
 Article: https://www.biorxiv.org/content/10.1101/2020.11.15.378125v1
+
+
+### CellPhoneDB
+
+Code:https://github.com/Teichlab/cellphonedb
+
+Article: Efremova, M., Vento-Tormo, M., Teichmann, S.A. et al. CellPhoneDB: inferring cell–cell communication from combined expression of multi-subunit ligand–receptor complexes. Nat Protoc 15, 1484–1506 (2020). https://doi.org/10.1038/s41596-020-0292-x
